@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="about">Tentang</string>
+    <string name="language">Bahasa</string>
+    <string name="release">Tayang : </string>
+</resources>
